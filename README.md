@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://leetcard.jacoblin.cool/alexanderspicin?ext=activity?cache=0)
+![](https://leetcard.jacoblin.cool/alexanderspicin?ext=activity)
 <!--
 **alexanderspicin/alexanderspicin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
