@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://leetcard.jacoblin.cool/alexanderspicin?theme=light&font=Noto%20Sans%20Thai%20Looped?ext=activity)
+![](https://leetcard.jacoblin.cool/alexanderspicin?ext=activity?theme=light&font=Noto%20Sans%20Thai%20Looped)
 <!--
 **alexanderspicin/alexanderspicin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
